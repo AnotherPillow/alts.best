@@ -17,6 +17,7 @@
                 url="https://www.minecraft.net/store/minecraft-java-bedrock-edition-pc"
                 img="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/PDP-Hero_OV-Standard_16x9.jpg"
                 title="Minecraft Java & Bedrock"
+                small="Full MSA OGI & TID."
             />
             <Card 
                 url="https://feverup.com/m/282847"
@@ -28,7 +29,7 @@
             <Card 
                 url="https://www.xbox.com/en-US/xbox-game-pass"
                 img="https://variety.com/wp-content/uploads/2021/06/Game-Pass.jpg" 
-                small="From $1"
+                small="No name set. Full access. From $1"
                 title="Xbox Game Pass"
             />
         </div>
