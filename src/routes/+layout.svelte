@@ -8,6 +8,8 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+    <meta content="alts.best" property="og:title">
+    <meta content="The best alts place." property="og:description">
 </svelte:head>
 
 {@render children?.()}
