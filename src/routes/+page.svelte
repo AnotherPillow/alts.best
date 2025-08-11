@@ -1,18 +1,17 @@
+
 <script>
     import Card from "$lib/components/Card.svelte";
-
 </script>
-<main class="relative min-w-screen min-h-screen font-[Lato]">
-    <div class="absolute inset-0 bg-gradient-to-br from-pink-800 via-fuchsia-900 to-purple-950"></div>
-    <div class="absolute inset-0 bg-black/70"></div>
 
+<main class="relative w-full min-h-screen font-[Lato] bg-gradient-to-br from-pink-800 via-fuchsia-900 to-purple-950">
+    <div class="absolute inset-0 bg-black/70"></div>    
     
-    <div class="relative z-10 text-white flex min-w-screen min-h-screen justify-center items-center flex-col">
+    <div class="relative z-10 text-white w-full min-h-screen flex justify-center items-center flex-col py-12">
         <a href="/" target="_self" class="hover:text-decoration-line filter hover:brightness-80">
             <h1 class="text-6xl font-bold mb-12">alts.<span class="text-rose-300">best</span></h1>
         </a>
 
-        <div class="w-240 h-80 flex justify-center items-center gap-8">
+        <div class="flex justify-center items-center gap-8 flex-wrap max-w-6xl px-4">
             <Card 
                 url="https://www.minecraft.net/store/minecraft-java-bedrock-edition-pc"
                 img="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/PDP-Hero_OV-Standard_16x9.jpg"
