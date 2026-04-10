@@ -1,12 +1,15 @@
 
 <script>
     import Card from "$lib/components/Card.svelte";
+    import SaleBanner from "$lib/components/SaleBanner.svelte";
 </script>
 
+
 <main class="relative w-full min-h-screen font-[Lato] bg-gradient-to-br from-pink-800 via-fuchsia-900 to-purple-950">
-    <div class="absolute inset-0 bg-black/70"></div>    
+    <div class="absolute inset-0 bg-black/70 z-10"></div>    
+    <SaleBanner />
     
-    <div class="relative z-10 text-white w-full min-h-screen flex justify-center items-center flex-col py-12">
+    <div class="relative z-50 text-white w-full min-h-screen flex justify-center items-center flex-col py-12">
         <a href="/" target="_self" class="hover:text-decoration-line filter hover:brightness-80">
             <h1 class="text-6xl font-bold mb-12">alts.<span class="text-rose-300">best</span></h1>
         </a>
