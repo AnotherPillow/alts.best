@@ -25,7 +25,12 @@
                 url="https://feverup.com/m/282847"
                 img="https://minecraft.wiki/images/Minecraft_Experience_Key_Art.jpg"
                 small="From £22"
-                title="Minecraft Experience Cape"
+                title="MCE Villager Rescue Cape"
+            />
+            <Card 
+                url="https://www.ticketek.com.ar/minecraft-experience/ciudad-universitaria"
+                img="https://minecraft.wiki/images/thumb/Minecraft_Experience_Moonlight_Trail_Key_Art.jpg/300px-Minecraft_Experience_Moonlight_Trail_Key_Art.jpg?afe94"
+                title="MCE Moonlight Trail Cape"
             />
             <!-- yes i'm aware it's on variety.com if you have the original source/one from xbox just tell me -->
             <Card 
