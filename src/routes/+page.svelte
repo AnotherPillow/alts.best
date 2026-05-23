@@ -9,7 +9,7 @@
     <div class="absolute inset-0 bg-black/70 z-10"></div>    
     <SaleBanner />
     
-    <div class="relative z-50 text-white w-full min-h-screen flex justify-center items-center flex-col py-12">
+    <div class="relative z-50 text-white w-full min-h-screen flex justify-center items-center flex-col my-12">
         <a href="/" target="_self" class="hover:text-decoration-line filter hover:brightness-80">
             <h1 class="text-6xl font-bold mb-12">alts.<span class="text-rose-300">best</span></h1>
         </a>
